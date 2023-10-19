@@ -1,0 +1,4 @@
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\OOP\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\OOP\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
